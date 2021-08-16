@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "homeButton": "Home",
+    "contactButton": "Contact",
+    "loginButton": "Login",
+    "logoutButton": "Logout"
+  },
+  "homePage": {
+    "title": "Welcome to Multilang App!"
+  },
+  "formContent": {
+    "titles": {
+      "contactPage": "Contact us",
+      "loginForm": "Login"
+    },
+    "name": "Name",
+    "email": "E-mail",
+    "phonenumber": "Phone",
+    "password": "Password",
+    "country": "Country",
+    "message": "Message",
+    "sendButton": "Send",
+    "loginButton": "Login"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "homeButton": "Anasayfa",
+    "contactButton": "İletişim",
+    "loginButton": "Giriş",
+    "logoutButton": "Çıkış"
+  },
+  "homePage": {
+    "title": "Multilang'a hoşgeldiniz!"
+  },
+  "formContent": {
+    "titles": {
+      "contactPage": "Bize Ulaşın",
+      "loginForm": "Giriş"
+    },
+    "name": "Adınız",
+    "email": "E-mail adresiniz",
+    "phonenumber": "Telefon numaranız",
+    "password": "Şifreniz",
+    "country": "Ülke",
+    "message": "Mesajınız",
+    "sendButton": "Gönder",
+    "loginButton": "Giriş"
+  }
+}
